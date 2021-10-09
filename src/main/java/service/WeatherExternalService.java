@@ -3,6 +3,6 @@ package service;
 import external.Weather;
 
 public enum WeatherExternalService {
-    WEATHER_STACK
+    WEATHER_STACK,OPEN_WEATHER
 
 }
